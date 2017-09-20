@@ -59,6 +59,9 @@
     UIView * view = [[UIView alloc]init];
     view.backgroundColor = [UIColor whiteColor];
     
+    UIView * view1 = [[UIView alloc]init];
+    view1.backgroundColor = [UIColor whiteColor];
+
     [self.window makeKeyAndVisible];
     
     return YES;
